@@ -1,0 +1,2 @@
+Most games will run fine with an instant dma transfer
+https://www.reddit.com/r/EmuDev/comments/8b5wvr/gb_what_game_boy_games_rely_on_correct_dma_timing/

@@ -1,0 +1,41 @@
+﻿  timer.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\time\timer.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SDLSandbox.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\sdlsandbox.cpp(39): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ppu_stress_test.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\pixel\ppu_stress_test.cpp(52): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ppu.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\pixel\ppu.cpp(446): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  interrupt.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\central\interrupt.cpp(102): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  decode.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\central\decode.cpp(1091): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  cpu_stress_test.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\central\cpu_stress_test.cpp(674): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  cpu.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\processors\central\cpu.cpp(1243): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  register.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\register.cpp(23): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  mmu.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\mmu.cpp(168): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  memory.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\memory.cpp(35): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  mbc.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\mbc.cpp(3): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  cartridge.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\cartridge.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  cart.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\memory\cart.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\main.cpp(8): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  gameboy.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\gameboy.cpp(132): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  interface.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\display\interface.cpp(3): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  display.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\display\display.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  stdafx.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\common\stdafx.cpp(9): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bit.cpp
+c:\users\allen\desktop\programming\c++\gameboy\src\common\bit.cpp(44): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
